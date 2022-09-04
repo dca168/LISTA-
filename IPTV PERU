@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 ,NUEVO TIEMPO | PE
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+#EXTINF:-1 ,3ABN| PE
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1 ,NICARAGUA| PE
+https://inliveserver.com:1936/17514/17514/chunklist_w391560627.m3u8
+#EXTINF:-1 ,Red ADvenir | PE
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,UM TV Universidad | PE
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunklist_w1234301409.m3u8
+#EXTINF:-1 ,Tu Universo Tv [Not 24/7]
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w108141607.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/yWLjxWG.png",El Histonauta TV [Not 24/7]
+https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1 ,PANAMERICANA TV | PE
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 ,ATV (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 ,ATV+ Noticias (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 ,TV Noticias 7.3 (614p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 ,TV Peru Noticias  | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 ,TV Perú (450p) [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://graph.facebook.com/televisiontarapoto/picture?width=320&height=320" tvg-country="PE", Televisión Tarapoto (720p)
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 ,ViaAltomayo TV  | PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 ,Controversia TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 ,Genios TV (Moyobamba) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 ,Super Canal (Yurimaguas) (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 group-title="Culture;News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pXspBga.png",Proyecta Televisión (Huacho) (720p) [Not 24/7]
+https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/GIbFg8B.png",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
+https://tv.portalexpress.es:3270/hybrid/play.m3u8
+#EXTINF:-1 ,Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 ,Telecolor (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 ,Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 ,Millenium 109 FM (Lamas) (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 ,TPTO TV (Tarapoto) [Not 24/7]
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Rxoi1KF.png",GORESAM TV [Not 24/7]
+https://stream.plixitv.live/goresamtv/goresamtv/playlist.m3u8
+#EXTINF:-1 ,RSelvaTV (Tarapoto) (720p) [Not 24/7]
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 ,NacionalTV (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#EXTINF:-1 ,Master TV (Tarapoto) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 ,Antares TV  | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,SoriTV [Not 24/7]
+https://cadenasurrtv.com/hls/stream/index.m3u8
+#EXTINF:-1 ,AsiriTV (Lima) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 ,CreoTV (Cajamarca) (720p) [Not 24/7]
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 ,Activa TV [Not 24/7]
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
+#EXTINF:-1 ,Amazonas TV (Bagua) [Not 24/7]
+https://stmv.panel.grupolimalive.com/amazonastv/amazonastv/playlist.m3u8
+#EXTINF:-1 ,ATM Televisión (Apurimac) (720p) [Not 24/7]
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 ,Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 ,Best Cable Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 ,Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 ,Cajamarca TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 ,Canal 8 (Catacaos) (360p) [Not 24/7]
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 ,CTC (720p)
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1 ,X TV (Chachapoyas) (720p) [Not 24/7]
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 ,CharapaTV (Pucallpa) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 ,Chicos IPe (1080p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 ,TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 ,Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 ,ClipsTV (Ica) (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg",Zona Joven TV
+https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
+#EXTINF:-1 ,CNC Digital (Iquitos) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 ,CNC Digital (Iquitos) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 ,Conecta2TV (Lima) (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 ,Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 ,Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1 ,Hatun TV (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 ,Huacho Perú TV (720p) [Not 24/7]
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1 ,Impacto Televisión (Cajamarca)
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 ,Imperial Televisión (Huancayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
+#EXTINF:-1 ,Monterrico TV (1080p) [Not 24/7]
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 ,Nativa (720p) [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 ,Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 ,Pax TV
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+#EXTINF:-1 ,QT Televisión (Cuzco) (720p) [Not 24/7]
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 ,Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 ,Región TV (Callao) (480p) [Not 24/7]
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 ,Sol Televisión
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 ,Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bbhgIN4.png",Telesur (Ilo) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bbhgIN4.png",Telesur (Moquegua) (360p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bbhgIN4.png",Telesur (Tacna) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Srxa6cR.png",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/CBUf3K1.png",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 ,MaticesTV (Cañete) [Not 24/7]
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1 ,ClipsTV (Ica) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 ,TELESUR [Not 24/7]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 ,Identidad TV [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 ,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 ,CGTN ESPAÑOL| PE
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,Quillavision (Cuzco) [Not 24/7]
+http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:-1 ,Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 ,Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,GALICIA TV| PE
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,GALICIA TV (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,Telesur TV| PE
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 ,Sol Stereo TV (Casma) [Not 24/7]
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:-1 ,Planeta TV Bagua (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+#EXTINF:-1 ,BHTV  | PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Teleunion TV| PE
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
+#EXTINF:-1 ,Vallevision TV| PE
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 ,Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 ,Estrella TV East (1080p)
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Euronews en Español (720p)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Bolivia TV 7.2 (720p)
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 ,Top FM TV (Atalaya) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 ,Canal IPE  | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Cultura 24 (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 ,1+1 Спорт (720p) [Not 24/7]
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,Top Gear (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,Red Bull TV (1080p)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 ,TV Palmeras [Not 24/7]
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
+#EXTINF:-1 ,Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 ,RETRO PLUS TV | PE
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,LotPlus TV (Chiclayo) [Not 24/7]
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:-1 ,Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 ,Stereo TV (Peru) [Not 24/7]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
+#EXTINF:-1 ,Eurodance 90 HD (1080p) [Not 24/7]
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 ,LimaLive [Not 24/7]
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 ,Central TV (Chosica) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 ,WOW TV| PE
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 ,WOW TV| PE
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 ,RetroPlus3| PE
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+#EXTINF:-1 ,DAN TV| PE
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8?DVR
+#EXTINF:-1 ,La Caleta| PE
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8?DVR
+#EXTINF:-1 ,Orbit TV| PE
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+#EXTINF:-1 ,Somos Del Este| PE
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?
+#EXTINF:-1 ,LOCOMOTION | PE
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 ,Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
