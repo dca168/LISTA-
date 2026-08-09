@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulador de Ascenso - Escala Magisterial</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<!-- ============================================================
+     APP SHELL
+     Contiene todas las "pantallas" del flujo de usuario final.
+     Solo una pantalla está visible a la vez (clase .activa),
+     controlada por js/ui.js
+     ============================================================ -->
+<div id="app">
+
+  <!-- Encabezado institucional -->
+  <header class="app-header">
+    <div class="app-header__marca">
+      <span class="app-header__logo">SE</span>
+      <div>
+        <h1 class="app-header__titulo">Simulador de Evaluación Docente</h1>
+        <p class="app-header__subtitulo">Concurso de Ascenso de Escala &mdash; Práctica offline</p>
+      </div>
+    </div>
+    <div id="cronometro" class="cronometro" hidden>
+      <span class="cronometro__icono" aria-hidden="true">&#9201;</span>
+      <span id="cronometro-texto">03:00:00</span>
+    </div>
+  </header>
+
+  <main class="app-main">
+
+    <!-- ============================================================
+         PANTALLA 1: INICIO / SELECCIÓN
+         ============================================================ -->
+    <section id="pantalla-inicio" class="pantalla activa">
+      <div class="tarjeta">
+        <h2>Configura tu simulación</h2>
+        <p class="texto-ayuda">
+          Elige el año del banco de preguntas y la escala magisterial a la que deseas practicar.
+          Esta app funciona completamente sin conexión a internet.
+        </p>
+
+        <div class="campo">
+          <label for="select-anio">Año del examen</label>
+          <select id="select-anio"></select>
+        </div>
+
+        <div class="campo">
+          <label for="select-escala">Escala magisterial (evaluación interna)</label>
+          <select id="select-escala"></select>
+        </div>
+
+        <div id="aviso-reanudar" class="aviso aviso--info" hidden>
+          <p>
+            Se detectó un intento incompleto guardado en este navegador.
+            Puedes <strong>reanudarlo</strong> o <strong>descartarlo</strong> para iniciar uno nuevo.
+          </p>
+          <div class="botones-fila">
+            <button id="btn-reanudar" class="boton boton--secundario">Reanudar intento</button>
+            <button id="btn-descartar" class="boton boton--fantasma">Descartar e iniciar nuevo</button>
+          </div>
+        </div>
+
+        <div class="aviso aviso--sutil">
+          <p>
+            Nota: si recargas la página accidentalmente durante el examen, tu progreso se
+            recupera automáticamente en este mismo navegador hasta que finalices el intento.
+          </p>
+        </div>
+
+        <button id="btn-ir-instrucciones" class="boton boton--primario boton--grande">
+          Continuar
+        </button>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PANTALLA 2: INSTRUCCIONES
+         ============================================================ -->
+    <section id="pantalla-instrucciones" class="pantalla">
+      <div class="tarjeta">
+        <h2>Instrucciones del simulador</h2>
+        <ul class="lista-instrucciones">
+          <li>El examen consta de <strong>60 preguntas</strong> seleccionadas al azar del banco del año elegido.</li>
+          <li>Tienes un máximo de <strong>180 minutos (3 horas)</strong> para responder.</li>
+          <li>Cada respuesta correcta suma <strong>1.5 puntos</strong>. Las incorrectas o en blanco no restan.</li>
+          <li>El puntaje máximo posible es <strong>90 puntos</strong>.</li>
+          <li>Puedes navegar libremente entre preguntas antes de finalizar.</li>
+          <li>Al agotarse el tiempo, el examen se cierra y se corrige automáticamente.</li>
+          <li>Si recargas la página por accidente, tu progreso se conserva en este navegador.</li>
+        </ul>
+        <div class="botones-fila">
+          <button id="btn-volver-inicio" class="boton boton--fantasma">Volver</button>
+          <button id="btn-iniciar-examen" class="boton boton--primario boton--grande">Iniciar examen</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PANTALLA 3: EXAMEN
+         ============================================================ -->
+    <section id="pantalla-examen" class="pantalla">
+      <div class="examen-layout">
+
+        <!-- Navegador de preguntas (grilla tipo simulador MTC) -->
+        <nav id="navegador-preguntas" class="navegador-preguntas" aria-label="Navegación de preguntas"></nav>
+
+        <div class="examen-contenido">
+          <div class="examen-progreso">
+            <span id="texto-progreso">Pregunta 1 de 60</span>
+            <span id="texto-respondidas">0 respondidas</span>
+          </div>
+
+          <div class="tarjeta tarjeta--pregunta">
+            <h3 id="pregunta-numero">Pregunta 1</h3>
+            <p id="pregunta-enunciado" class="pregunta-enunciado"></p>
+            <div id="pregunta-alternativas" class="alternativas"></div>
+          </div>
+
+          <div class="botones-fila botones-fila--examen">
+            <button id="btn-anterior" class="boton boton--fantasma">&larr; Anterior</button>
+            <button id="btn-siguiente" class="boton boton--secundario">Siguiente &rarr;</button>
+            <button id="btn-finalizar" class="boton boton--peligro">Finalizar examen</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PANTALLA 4: RESULTADOS (resumen)
+         ============================================================ -->
+    <section id="pantalla-resultados" class="pantalla">
+      <div class="tarjeta">
+        <h2>Resultado del simulacro</h2>
+        <div id="resumen-resultados" class="resumen-resultados"></div>
+        <div class="botones-fila">
+          <button id="btn-ver-reporte" class="boton boton--secundario">Ver reporte detallado</button>
+          <button id="btn-nuevo-intento" class="boton boton--primario">Nuevo intento</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PANTALLA 5: REPORTE IMPRIMIBLE
+         ============================================================ -->
+    <section id="pantalla-reporte" class="pantalla">
+      <div class="acciones-reporte no-imprimir">
+        <button id="btn-imprimir" class="boton boton--primario">Imprimir / Guardar como PDF</button>
+        <button id="btn-volver-resultados" class="boton boton--fantasma">Volver</button>
+      </div>
+      <div id="reporte-imprimible" class="reporte-imprimible"></div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer no-imprimir">
+    <p>Simulador local &mdash; sin conexión a internet &mdash; datos almacenados solo en este navegador.</p>
+    <button id="btn-admin-toggle" class="boton-admin-discreto" title="Panel de administración local">&#9881;</button>
+  </footer>
+
+  <!-- ============================================================
+       PANTALLA ADMIN (oculta, aislada, solo local)
+       Se activa vía ruta hash #admin o el botón discreto del footer.
+       No interfiere con el modo examen del usuario final.
+       ============================================================ -->
+  <section id="pantalla-admin" class="pantalla pantalla-admin">
+    <div class="tarjeta">
+      <h2>Panel de administración local (opcional)</h2>
+      <p class="texto-ayuda">
+        Esta sección es solo para mantenimiento de bancos de preguntas. No se usa durante
+        el examen normal y no se muestra a los usuarios finales por defecto.
+      </p>
+
+      <div class="campo">
+        <label for="admin-anio">Año a editar</label>
+        <input type="text" id="admin-anio" placeholder="Ej: 2026">
+      </div>
+
+      <div class="campo">
+        <label for="admin-preguntas-json">Banco de preguntas (JSON)</label>
+        <textarea id="admin-preguntas-json" rows="8" placeholder='{"anio":2026,"preguntas":[{"id":"A2026-01","enunciado":"...","alternativas":{"a":"...","b":"...","c":"..."}}]}'></textarea>
+      </div>
+
+      <div class="campo">
+        <label for="admin-claves-json">Claves de respuesta (JSON)</label>
+        <textarea id="admin-claves-json" rows="4" placeholder='{"anio":2026,"claves":{"A2026-01":"a"}}'></textarea>
+      </div>
+
+      <div class="botones-fila">
+        <button id="btn-admin-validar" class="boton boton--secundario">Validar consistencia</button>
+        <button id="btn-admin-exportar" class="boton boton--primario">Exportar JSON</button>
+        <button id="btn-admin-cerrar" class="boton boton--fantasma">Cerrar panel</button>
+      </div>
+
+      <div id="admin-resultado-validacion" class="admin-resultado"></div>
+    </div>
+  </section>
+
+</div>
+
+<!-- ============================================================
+     CARGA DE MÓDULOS (orden importa: sin backend, sin bundlers)
+     ============================================================ -->
+<script src="js/datos.js"></script>
+<script src="js/reglas-evaluacion.js"></script>
+<script src="js/persistencia.js"></script>
+<script src="js/motor-examen.js"></script>
+<script src="js/reporte.js"></script>
+<script src="js/admin.js"></script>
+<script src="js/ui.js"></script>
+</body>
+</html>

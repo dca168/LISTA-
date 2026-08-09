@@ -1,0 +1,47 @@
+{
+  "_comentario": "Registro central de años disponibles. Para agregar un nuevo año: 1) crear data/preguntas/preguntas-AAAA.json y data/claves/claves-AAAA.json 2) agregar una entrada aquí con los mismos nombres de archivo. No se requiere tocar el motor del examen.",
+  "anios": [
+    {
+      "anio": 2018,
+      "archivoPreguntas": "data/preguntas/preguntas-2018.json",
+      "archivoClaves": "data/claves/claves-2018.json",
+      "activo": true
+    },
+    {
+      "anio": 2019,
+      "archivoPreguntas": "data/preguntas/preguntas-2019.json",
+      "archivoClaves": "data/claves/claves-2019.json",
+      "activo": true
+    },
+    {
+      "anio": 2021,
+      "archivoPreguntas": "data/preguntas/preguntas-2021.json",
+      "archivoClaves": "data/claves/claves-2021.json",
+      "activo": true
+    },
+    {
+      "anio": 2022,
+      "archivoPreguntas": "data/preguntas/preguntas-2022.json",
+      "archivoClaves": "data/claves/claves-2022.json",
+      "activo": true
+    },
+    {
+      "anio": 2023,
+      "archivoPreguntas": "data/preguntas/preguntas-2023.json",
+      "archivoClaves": "data/claves/claves-2023.json",
+      "activo": true
+    },
+    {
+      "anio": 2024,
+      "archivoPreguntas": "data/preguntas/preguntas-2024.json",
+      "archivoClaves": "data/claves/claves-2024.json",
+      "activo": true
+    },
+    {
+      "anio": 2025,
+      "archivoPreguntas": "data/preguntas/preguntas-2025.json",
+      "archivoClaves": "data/claves/claves-2025.json",
+      "activo": true
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "anio": 2024,
+  "preguntas": [
+    {
+      "id": "A2024-01",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 1. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 1 (2024)",
+        "b": "Alternativa B de la pregunta 1 (2024)",
+        "c": "Alternativa C de la pregunta 1 (2024)"
+      }
+    },
+    {
+      "id": "A2024-02",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 2. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 2 (2024)",
+        "b": "Alternativa B de la pregunta 2 (2024)",
+        "c": "Alternativa C de la pregunta 2 (2024)"
+      }
+    },
+    {
+      "id": "A2024-03",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 3. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 3 (2024)",
+        "b": "Alternativa B de la pregunta 3 (2024)",
+        "c": "Alternativa C de la pregunta 3 (2024)"
+      }
+    },
+    {
+      "id": "A2024-04",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 4. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 4 (2024)",
+        "b": "Alternativa B de la pregunta 4 (2024)",
+        "c": "Alternativa C de la pregunta 4 (2024)"
+      }
+    },
+    {
+      "id": "A2024-05",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 5. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 5 (2024)",
+        "b": "Alternativa B de la pregunta 5 (2024)",
+        "c": "Alternativa C de la pregunta 5 (2024)"
+      }
+    },
+    {
+      "id": "A2024-06",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 6. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 6 (2024)",
+        "b": "Alternativa B de la pregunta 6 (2024)",
+        "c": "Alternativa C de la pregunta 6 (2024)"
+      }
+    },
+    {
+      "id": "A2024-07",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 7. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 7 (2024)",
+        "b": "Alternativa B de la pregunta 7 (2024)",
+        "c": "Alternativa C de la pregunta 7 (2024)"
+      }
+    },
+    {
+      "id": "A2024-08",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 8. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 8 (2024)",
+        "b": "Alternativa B de la pregunta 8 (2024)",
+        "c": "Alternativa C de la pregunta 8 (2024)"
+      }
+    },
+    {
+      "id": "A2024-09",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 9. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 9 (2024)",
+        "b": "Alternativa B de la pregunta 9 (2024)",
+        "c": "Alternativa C de la pregunta 9 (2024)"
+      }
+    },
+    {
+      "id": "A2024-10",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 10. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 10 (2024)",
+        "b": "Alternativa B de la pregunta 10 (2024)",
+        "c": "Alternativa C de la pregunta 10 (2024)"
+      }
+    },
+    {
+      "id": "A2024-11",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 11. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 11 (2024)",
+        "b": "Alternativa B de la pregunta 11 (2024)",
+        "c": "Alternativa C de la pregunta 11 (2024)"
+      }
+    },
+    {
+      "id": "A2024-12",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 12. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 12 (2024)",
+        "b": "Alternativa B de la pregunta 12 (2024)",
+        "c": "Alternativa C de la pregunta 12 (2024)"
+      }
+    },
+    {
+      "id": "A2024-13",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 13. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 13 (2024)",
+        "b": "Alternativa B de la pregunta 13 (2024)",
+        "c": "Alternativa C de la pregunta 13 (2024)"
+      }
+    },
+    {
+      "id": "A2024-14",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 14. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 14 (2024)",
+        "b": "Alternativa B de la pregunta 14 (2024)",
+        "c": "Alternativa C de la pregunta 14 (2024)"
+      }
+    },
+    {
+      "id": "A2024-15",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 15. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 15 (2024)",
+        "b": "Alternativa B de la pregunta 15 (2024)",
+        "c": "Alternativa C de la pregunta 15 (2024)"
+      }
+    },
+    {
+      "id": "A2024-16",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 16. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 16 (2024)",
+        "b": "Alternativa B de la pregunta 16 (2024)",
+        "c": "Alternativa C de la pregunta 16 (2024)"
+      }
+    },
+    {
+      "id": "A2024-17",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 17. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 17 (2024)",
+        "b": "Alternativa B de la pregunta 17 (2024)",
+        "c": "Alternativa C de la pregunta 17 (2024)"
+      }
+    },
+    {
+      "id": "A2024-18",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 18. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 18 (2024)",
+        "b": "Alternativa B de la pregunta 18 (2024)",
+        "c": "Alternativa C de la pregunta 18 (2024)"
+      }
+    },
+    {
+      "id": "A2024-19",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 19. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 19 (2024)",
+        "b": "Alternativa B de la pregunta 19 (2024)",
+        "c": "Alternativa C de la pregunta 19 (2024)"
+      }
+    },
+    {
+      "id": "A2024-20",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 20. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 20 (2024)",
+        "b": "Alternativa B de la pregunta 20 (2024)",
+        "c": "Alternativa C de la pregunta 20 (2024)"
+      }
+    },
+    {
+      "id": "A2024-21",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 21. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 21 (2024)",
+        "b": "Alternativa B de la pregunta 21 (2024)",
+        "c": "Alternativa C de la pregunta 21 (2024)"
+      }
+    },
+    {
+      "id": "A2024-22",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 22. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 22 (2024)",
+        "b": "Alternativa B de la pregunta 22 (2024)",
+        "c": "Alternativa C de la pregunta 22 (2024)"
+      }
+    },
+    {
+      "id": "A2024-23",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 23. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 23 (2024)",
+        "b": "Alternativa B de la pregunta 23 (2024)",
+        "c": "Alternativa C de la pregunta 23 (2024)"
+      }
+    },
+    {
+      "id": "A2024-24",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 24. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 24 (2024)",
+        "b": "Alternativa B de la pregunta 24 (2024)",
+        "c": "Alternativa C de la pregunta 24 (2024)"
+      }
+    },
+    {
+      "id": "A2024-25",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 25. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 25 (2024)",
+        "b": "Alternativa B de la pregunta 25 (2024)",
+        "c": "Alternativa C de la pregunta 25 (2024)"
+      }
+    },
+    {
+      "id": "A2024-26",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 26. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 26 (2024)",
+        "b": "Alternativa B de la pregunta 26 (2024)",
+        "c": "Alternativa C de la pregunta 26 (2024)"
+      }
+    },
+    {
+      "id": "A2024-27",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 27. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 27 (2024)",
+        "b": "Alternativa B de la pregunta 27 (2024)",
+        "c": "Alternativa C de la pregunta 27 (2024)"
+      }
+    },
+    {
+      "id": "A2024-28",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 28. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 28 (2024)",
+        "b": "Alternativa B de la pregunta 28 (2024)",
+        "c": "Alternativa C de la pregunta 28 (2024)"
+      }
+    },
+    {
+      "id": "A2024-29",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 29. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 29 (2024)",
+        "b": "Alternativa B de la pregunta 29 (2024)",
+        "c": "Alternativa C de la pregunta 29 (2024)"
+      }
+    },
+    {
+      "id": "A2024-30",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 30. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 30 (2024)",
+        "b": "Alternativa B de la pregunta 30 (2024)",
+        "c": "Alternativa C de la pregunta 30 (2024)"
+      }
+    },
+    {
+      "id": "A2024-31",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 31. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 31 (2024)",
+        "b": "Alternativa B de la pregunta 31 (2024)",
+        "c": "Alternativa C de la pregunta 31 (2024)"
+      }
+    },
+    {
+      "id": "A2024-32",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 32. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 32 (2024)",
+        "b": "Alternativa B de la pregunta 32 (2024)",
+        "c": "Alternativa C de la pregunta 32 (2024)"
+      }
+    },
+    {
+      "id": "A2024-33",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 33. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 33 (2024)",
+        "b": "Alternativa B de la pregunta 33 (2024)",
+        "c": "Alternativa C de la pregunta 33 (2024)"
+      }
+    },
+    {
+      "id": "A2024-34",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 34. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 34 (2024)",
+        "b": "Alternativa B de la pregunta 34 (2024)",
+        "c": "Alternativa C de la pregunta 34 (2024)"
+      }
+    },
+    {
+      "id": "A2024-35",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 35. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 35 (2024)",
+        "b": "Alternativa B de la pregunta 35 (2024)",
+        "c": "Alternativa C de la pregunta 35 (2024)"
+      }
+    },
+    {
+      "id": "A2024-36",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 36. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 36 (2024)",
+        "b": "Alternativa B de la pregunta 36 (2024)",
+        "c": "Alternativa C de la pregunta 36 (2024)"
+      }
+    },
+    {
+      "id": "A2024-37",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 37. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 37 (2024)",
+        "b": "Alternativa B de la pregunta 37 (2024)",
+        "c": "Alternativa C de la pregunta 37 (2024)"
+      }
+    },
+    {
+      "id": "A2024-38",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 38. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 38 (2024)",
+        "b": "Alternativa B de la pregunta 38 (2024)",
+        "c": "Alternativa C de la pregunta 38 (2024)"
+      }
+    },
+    {
+      "id": "A2024-39",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 39. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 39 (2024)",
+        "b": "Alternativa B de la pregunta 39 (2024)",
+        "c": "Alternativa C de la pregunta 39 (2024)"
+      }
+    },
+    {
+      "id": "A2024-40",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 40. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 40 (2024)",
+        "b": "Alternativa B de la pregunta 40 (2024)",
+        "c": "Alternativa C de la pregunta 40 (2024)"
+      }
+    },
+    {
+      "id": "A2024-41",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 41. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 41 (2024)",
+        "b": "Alternativa B de la pregunta 41 (2024)",
+        "c": "Alternativa C de la pregunta 41 (2024)"
+      }
+    },
+    {
+      "id": "A2024-42",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 42. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 42 (2024)",
+        "b": "Alternativa B de la pregunta 42 (2024)",
+        "c": "Alternativa C de la pregunta 42 (2024)"
+      }
+    },
+    {
+      "id": "A2024-43",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 43. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 43 (2024)",
+        "b": "Alternativa B de la pregunta 43 (2024)",
+        "c": "Alternativa C de la pregunta 43 (2024)"
+      }
+    },
+    {
+      "id": "A2024-44",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 44. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 44 (2024)",
+        "b": "Alternativa B de la pregunta 44 (2024)",
+        "c": "Alternativa C de la pregunta 44 (2024)"
+      }
+    },
+    {
+      "id": "A2024-45",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 45. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 45 (2024)",
+        "b": "Alternativa B de la pregunta 45 (2024)",
+        "c": "Alternativa C de la pregunta 45 (2024)"
+      }
+    },
+    {
+      "id": "A2024-46",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 46. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 46 (2024)",
+        "b": "Alternativa B de la pregunta 46 (2024)",
+        "c": "Alternativa C de la pregunta 46 (2024)"
+      }
+    },
+    {
+      "id": "A2024-47",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 47. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 47 (2024)",
+        "b": "Alternativa B de la pregunta 47 (2024)",
+        "c": "Alternativa C de la pregunta 47 (2024)"
+      }
+    },
+    {
+      "id": "A2024-48",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 48. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 48 (2024)",
+        "b": "Alternativa B de la pregunta 48 (2024)",
+        "c": "Alternativa C de la pregunta 48 (2024)"
+      }
+    },
+    {
+      "id": "A2024-49",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 49. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 49 (2024)",
+        "b": "Alternativa B de la pregunta 49 (2024)",
+        "c": "Alternativa C de la pregunta 49 (2024)"
+      }
+    },
+    {
+      "id": "A2024-50",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 50. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 50 (2024)",
+        "b": "Alternativa B de la pregunta 50 (2024)",
+        "c": "Alternativa C de la pregunta 50 (2024)"
+      }
+    },
+    {
+      "id": "A2024-51",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 51. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 51 (2024)",
+        "b": "Alternativa B de la pregunta 51 (2024)",
+        "c": "Alternativa C de la pregunta 51 (2024)"
+      }
+    },
+    {
+      "id": "A2024-52",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 52. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 52 (2024)",
+        "b": "Alternativa B de la pregunta 52 (2024)",
+        "c": "Alternativa C de la pregunta 52 (2024)"
+      }
+    },
+    {
+      "id": "A2024-53",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 53. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 53 (2024)",
+        "b": "Alternativa B de la pregunta 53 (2024)",
+        "c": "Alternativa C de la pregunta 53 (2024)"
+      }
+    },
+    {
+      "id": "A2024-54",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 54. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 54 (2024)",
+        "b": "Alternativa B de la pregunta 54 (2024)",
+        "c": "Alternativa C de la pregunta 54 (2024)"
+      }
+    },
+    {
+      "id": "A2024-55",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 55. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 55 (2024)",
+        "b": "Alternativa B de la pregunta 55 (2024)",
+        "c": "Alternativa C de la pregunta 55 (2024)"
+      }
+    },
+    {
+      "id": "A2024-56",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 56. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 56 (2024)",
+        "b": "Alternativa B de la pregunta 56 (2024)",
+        "c": "Alternativa C de la pregunta 56 (2024)"
+      }
+    },
+    {
+      "id": "A2024-57",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 57. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 57 (2024)",
+        "b": "Alternativa B de la pregunta 57 (2024)",
+        "c": "Alternativa C de la pregunta 57 (2024)"
+      }
+    },
+    {
+      "id": "A2024-58",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 58. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 58 (2024)",
+        "b": "Alternativa B de la pregunta 58 (2024)",
+        "c": "Alternativa C de la pregunta 58 (2024)"
+      }
+    },
+    {
+      "id": "A2024-59",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 59. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 59 (2024)",
+        "b": "Alternativa B de la pregunta 59 (2024)",
+        "c": "Alternativa C de la pregunta 59 (2024)"
+      }
+    },
+    {
+      "id": "A2024-60",
+      "enunciado": "[Ejemplo 2024] Pregunta de muestra número 60. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2024.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 60 (2024)",
+        "b": "Alternativa B de la pregunta 60 (2024)",
+        "c": "Alternativa C de la pregunta 60 (2024)"
+      }
+    }
+  ]
+}

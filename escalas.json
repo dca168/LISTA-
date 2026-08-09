@@ -1,0 +1,83 @@
+{
+  "_comentario": "Tabla EXPLICITA de equivalencias correctas->puntaje->condicion, por escala. SOLO se incluyen los valores entregados por el usuario (36,38,40,42,44,46 correctas). No se han inventado reglas para los valores intermedios no provistos (ej. 37, 39, 41...). El motor de reglas (js/reglas-evaluacion.js) usa INTERPOLACION EXPLICITA Y DOCUMENTADA: 0.375 puntos exactos por respuesta correcta adicional (siguiendo la proporcion 1.5 pts/pregunta de la regla base), y determina la condicion final comparando el puntaje obtenido contra el 'puntajeMinimoRequerido' de la escala seleccionada. Esta es una decision de implementacion explicita y ajustable: modifique los arreglos 'tablaReferencia' para cambiar el comportamiento.",
+  "reglaBase": {
+    "totalPreguntas": 60,
+    "puntosPorCorrecta": 1.5,
+    "puntosPorIncorrectaOBlanco": 0,
+    "puntajeMaximo": 90
+  },
+  "escalas": [
+    {
+      "id": "segunda",
+      "nombre": "Segunda escala",
+      "correctasMinimas": 36,
+      "puntajeMinimoRequerido": 54,
+      "tablaReferencia": [
+        {
+          "correctas": 36,
+          "puntaje": 54
+        }
+      ]
+    },
+    {
+      "id": "tercera",
+      "nombre": "Tercera escala",
+      "correctasMinimas": 38,
+      "puntajeMinimoRequerido": 57,
+      "tablaReferencia": [
+        {
+          "correctas": 38,
+          "puntaje": 57
+        }
+      ]
+    },
+    {
+      "id": "cuarta",
+      "nombre": "Cuarta escala",
+      "correctasMinimas": 40,
+      "puntajeMinimoRequerido": 60,
+      "tablaReferencia": [
+        {
+          "correctas": 40,
+          "puntaje": 60
+        }
+      ]
+    },
+    {
+      "id": "quinta",
+      "nombre": "Quinta escala",
+      "correctasMinimas": 42,
+      "puntajeMinimoRequerido": 63,
+      "tablaReferencia": [
+        {
+          "correctas": 42,
+          "puntaje": 63
+        }
+      ]
+    },
+    {
+      "id": "sexta",
+      "nombre": "Sexta escala",
+      "correctasMinimas": 44,
+      "puntajeMinimoRequerido": 66,
+      "tablaReferencia": [
+        {
+          "correctas": 44,
+          "puntaje": 66
+        }
+      ]
+    },
+    {
+      "id": "septima",
+      "nombre": "Séptima escala",
+      "correctasMinimas": 46,
+      "puntajeMinimoRequerido": 69,
+      "tablaReferencia": [
+        {
+          "correctas": 46,
+          "puntaje": 69
+        }
+      ]
+    }
+  ]
+}

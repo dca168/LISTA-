@@ -1,0 +1,38 @@
+Hoja de Repuestas
+
+Pregunta N” | Respuesta correcta Pregunta N* | Respuesta correcta
+A 31 B
+
+1
+2 B 32 C
+3 C 33 B
+4 B 34 A
+5 C 35 B
+6 B 36 C
+7 A 37 B
+8 A 38 A
+9 C 39 C
+10 B 40 A
+11 B 41 C
+12 C 42 B
+13 C 43 A
+14 B 44 B
+15 E 45 o
+16 Cc 46 C
+17 B 47 A
+18 B 48 A
+19 B 49 A
+20 C 50 B
+21 A 51 A
+22 C 52 C
+23 C 53 C
+24 A 54 C
+25 B 55 B
+26 A 56 A
+27 A 57 A
+28 A 58 B
+29 B 59 A
+30 C 60 C
+
+A04-EBRP-11 - EBR Primaria
+

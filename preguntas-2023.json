@@ -1,0 +1,545 @@
+{
+  "anio": 2023,
+  "preguntas": [
+    {
+      "id": "A2023-01",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 1. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 1 (2023)",
+        "b": "Alternativa B de la pregunta 1 (2023)",
+        "c": "Alternativa C de la pregunta 1 (2023)"
+      }
+    },
+    {
+      "id": "A2023-02",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 2. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 2 (2023)",
+        "b": "Alternativa B de la pregunta 2 (2023)",
+        "c": "Alternativa C de la pregunta 2 (2023)"
+      }
+    },
+    {
+      "id": "A2023-03",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 3. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 3 (2023)",
+        "b": "Alternativa B de la pregunta 3 (2023)",
+        "c": "Alternativa C de la pregunta 3 (2023)"
+      }
+    },
+    {
+      "id": "A2023-04",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 4. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 4 (2023)",
+        "b": "Alternativa B de la pregunta 4 (2023)",
+        "c": "Alternativa C de la pregunta 4 (2023)"
+      }
+    },
+    {
+      "id": "A2023-05",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 5. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 5 (2023)",
+        "b": "Alternativa B de la pregunta 5 (2023)",
+        "c": "Alternativa C de la pregunta 5 (2023)"
+      }
+    },
+    {
+      "id": "A2023-06",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 6. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 6 (2023)",
+        "b": "Alternativa B de la pregunta 6 (2023)",
+        "c": "Alternativa C de la pregunta 6 (2023)"
+      }
+    },
+    {
+      "id": "A2023-07",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 7. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 7 (2023)",
+        "b": "Alternativa B de la pregunta 7 (2023)",
+        "c": "Alternativa C de la pregunta 7 (2023)"
+      }
+    },
+    {
+      "id": "A2023-08",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 8. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 8 (2023)",
+        "b": "Alternativa B de la pregunta 8 (2023)",
+        "c": "Alternativa C de la pregunta 8 (2023)"
+      }
+    },
+    {
+      "id": "A2023-09",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 9. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 9 (2023)",
+        "b": "Alternativa B de la pregunta 9 (2023)",
+        "c": "Alternativa C de la pregunta 9 (2023)"
+      }
+    },
+    {
+      "id": "A2023-10",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 10. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 10 (2023)",
+        "b": "Alternativa B de la pregunta 10 (2023)",
+        "c": "Alternativa C de la pregunta 10 (2023)"
+      }
+    },
+    {
+      "id": "A2023-11",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 11. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 11 (2023)",
+        "b": "Alternativa B de la pregunta 11 (2023)",
+        "c": "Alternativa C de la pregunta 11 (2023)"
+      }
+    },
+    {
+      "id": "A2023-12",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 12. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 12 (2023)",
+        "b": "Alternativa B de la pregunta 12 (2023)",
+        "c": "Alternativa C de la pregunta 12 (2023)"
+      }
+    },
+    {
+      "id": "A2023-13",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 13. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 13 (2023)",
+        "b": "Alternativa B de la pregunta 13 (2023)",
+        "c": "Alternativa C de la pregunta 13 (2023)"
+      }
+    },
+    {
+      "id": "A2023-14",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 14. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 14 (2023)",
+        "b": "Alternativa B de la pregunta 14 (2023)",
+        "c": "Alternativa C de la pregunta 14 (2023)"
+      }
+    },
+    {
+      "id": "A2023-15",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 15. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 15 (2023)",
+        "b": "Alternativa B de la pregunta 15 (2023)",
+        "c": "Alternativa C de la pregunta 15 (2023)"
+      }
+    },
+    {
+      "id": "A2023-16",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 16. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 16 (2023)",
+        "b": "Alternativa B de la pregunta 16 (2023)",
+        "c": "Alternativa C de la pregunta 16 (2023)"
+      }
+    },
+    {
+      "id": "A2023-17",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 17. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 17 (2023)",
+        "b": "Alternativa B de la pregunta 17 (2023)",
+        "c": "Alternativa C de la pregunta 17 (2023)"
+      }
+    },
+    {
+      "id": "A2023-18",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 18. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 18 (2023)",
+        "b": "Alternativa B de la pregunta 18 (2023)",
+        "c": "Alternativa C de la pregunta 18 (2023)"
+      }
+    },
+    {
+      "id": "A2023-19",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 19. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 19 (2023)",
+        "b": "Alternativa B de la pregunta 19 (2023)",
+        "c": "Alternativa C de la pregunta 19 (2023)"
+      }
+    },
+    {
+      "id": "A2023-20",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 20. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 20 (2023)",
+        "b": "Alternativa B de la pregunta 20 (2023)",
+        "c": "Alternativa C de la pregunta 20 (2023)"
+      }
+    },
+    {
+      "id": "A2023-21",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 21. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 21 (2023)",
+        "b": "Alternativa B de la pregunta 21 (2023)",
+        "c": "Alternativa C de la pregunta 21 (2023)"
+      }
+    },
+    {
+      "id": "A2023-22",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 22. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 22 (2023)",
+        "b": "Alternativa B de la pregunta 22 (2023)",
+        "c": "Alternativa C de la pregunta 22 (2023)"
+      }
+    },
+    {
+      "id": "A2023-23",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 23. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 23 (2023)",
+        "b": "Alternativa B de la pregunta 23 (2023)",
+        "c": "Alternativa C de la pregunta 23 (2023)"
+      }
+    },
+    {
+      "id": "A2023-24",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 24. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 24 (2023)",
+        "b": "Alternativa B de la pregunta 24 (2023)",
+        "c": "Alternativa C de la pregunta 24 (2023)"
+      }
+    },
+    {
+      "id": "A2023-25",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 25. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 25 (2023)",
+        "b": "Alternativa B de la pregunta 25 (2023)",
+        "c": "Alternativa C de la pregunta 25 (2023)"
+      }
+    },
+    {
+      "id": "A2023-26",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 26. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 26 (2023)",
+        "b": "Alternativa B de la pregunta 26 (2023)",
+        "c": "Alternativa C de la pregunta 26 (2023)"
+      }
+    },
+    {
+      "id": "A2023-27",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 27. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 27 (2023)",
+        "b": "Alternativa B de la pregunta 27 (2023)",
+        "c": "Alternativa C de la pregunta 27 (2023)"
+      }
+    },
+    {
+      "id": "A2023-28",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 28. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 28 (2023)",
+        "b": "Alternativa B de la pregunta 28 (2023)",
+        "c": "Alternativa C de la pregunta 28 (2023)"
+      }
+    },
+    {
+      "id": "A2023-29",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 29. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 29 (2023)",
+        "b": "Alternativa B de la pregunta 29 (2023)",
+        "c": "Alternativa C de la pregunta 29 (2023)"
+      }
+    },
+    {
+      "id": "A2023-30",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 30. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 30 (2023)",
+        "b": "Alternativa B de la pregunta 30 (2023)",
+        "c": "Alternativa C de la pregunta 30 (2023)"
+      }
+    },
+    {
+      "id": "A2023-31",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 31. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 31 (2023)",
+        "b": "Alternativa B de la pregunta 31 (2023)",
+        "c": "Alternativa C de la pregunta 31 (2023)"
+      }
+    },
+    {
+      "id": "A2023-32",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 32. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 32 (2023)",
+        "b": "Alternativa B de la pregunta 32 (2023)",
+        "c": "Alternativa C de la pregunta 32 (2023)"
+      }
+    },
+    {
+      "id": "A2023-33",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 33. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 33 (2023)",
+        "b": "Alternativa B de la pregunta 33 (2023)",
+        "c": "Alternativa C de la pregunta 33 (2023)"
+      }
+    },
+    {
+      "id": "A2023-34",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 34. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 34 (2023)",
+        "b": "Alternativa B de la pregunta 34 (2023)",
+        "c": "Alternativa C de la pregunta 34 (2023)"
+      }
+    },
+    {
+      "id": "A2023-35",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 35. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 35 (2023)",
+        "b": "Alternativa B de la pregunta 35 (2023)",
+        "c": "Alternativa C de la pregunta 35 (2023)"
+      }
+    },
+    {
+      "id": "A2023-36",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 36. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 36 (2023)",
+        "b": "Alternativa B de la pregunta 36 (2023)",
+        "c": "Alternativa C de la pregunta 36 (2023)"
+      }
+    },
+    {
+      "id": "A2023-37",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 37. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 37 (2023)",
+        "b": "Alternativa B de la pregunta 37 (2023)",
+        "c": "Alternativa C de la pregunta 37 (2023)"
+      }
+    },
+    {
+      "id": "A2023-38",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 38. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 38 (2023)",
+        "b": "Alternativa B de la pregunta 38 (2023)",
+        "c": "Alternativa C de la pregunta 38 (2023)"
+      }
+    },
+    {
+      "id": "A2023-39",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 39. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 39 (2023)",
+        "b": "Alternativa B de la pregunta 39 (2023)",
+        "c": "Alternativa C de la pregunta 39 (2023)"
+      }
+    },
+    {
+      "id": "A2023-40",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 40. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 40 (2023)",
+        "b": "Alternativa B de la pregunta 40 (2023)",
+        "c": "Alternativa C de la pregunta 40 (2023)"
+      }
+    },
+    {
+      "id": "A2023-41",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 41. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 41 (2023)",
+        "b": "Alternativa B de la pregunta 41 (2023)",
+        "c": "Alternativa C de la pregunta 41 (2023)"
+      }
+    },
+    {
+      "id": "A2023-42",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 42. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 42 (2023)",
+        "b": "Alternativa B de la pregunta 42 (2023)",
+        "c": "Alternativa C de la pregunta 42 (2023)"
+      }
+    },
+    {
+      "id": "A2023-43",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 43. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 43 (2023)",
+        "b": "Alternativa B de la pregunta 43 (2023)",
+        "c": "Alternativa C de la pregunta 43 (2023)"
+      }
+    },
+    {
+      "id": "A2023-44",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 44. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 44 (2023)",
+        "b": "Alternativa B de la pregunta 44 (2023)",
+        "c": "Alternativa C de la pregunta 44 (2023)"
+      }
+    },
+    {
+      "id": "A2023-45",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 45. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 45 (2023)",
+        "b": "Alternativa B de la pregunta 45 (2023)",
+        "c": "Alternativa C de la pregunta 45 (2023)"
+      }
+    },
+    {
+      "id": "A2023-46",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 46. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 46 (2023)",
+        "b": "Alternativa B de la pregunta 46 (2023)",
+        "c": "Alternativa C de la pregunta 46 (2023)"
+      }
+    },
+    {
+      "id": "A2023-47",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 47. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 47 (2023)",
+        "b": "Alternativa B de la pregunta 47 (2023)",
+        "c": "Alternativa C de la pregunta 47 (2023)"
+      }
+    },
+    {
+      "id": "A2023-48",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 48. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 48 (2023)",
+        "b": "Alternativa B de la pregunta 48 (2023)",
+        "c": "Alternativa C de la pregunta 48 (2023)"
+      }
+    },
+    {
+      "id": "A2023-49",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 49. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 49 (2023)",
+        "b": "Alternativa B de la pregunta 49 (2023)",
+        "c": "Alternativa C de la pregunta 49 (2023)"
+      }
+    },
+    {
+      "id": "A2023-50",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 50. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 50 (2023)",
+        "b": "Alternativa B de la pregunta 50 (2023)",
+        "c": "Alternativa C de la pregunta 50 (2023)"
+      }
+    },
+    {
+      "id": "A2023-51",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 51. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 51 (2023)",
+        "b": "Alternativa B de la pregunta 51 (2023)",
+        "c": "Alternativa C de la pregunta 51 (2023)"
+      }
+    },
+    {
+      "id": "A2023-52",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 52. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 52 (2023)",
+        "b": "Alternativa B de la pregunta 52 (2023)",
+        "c": "Alternativa C de la pregunta 52 (2023)"
+      }
+    },
+    {
+      "id": "A2023-53",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 53. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 53 (2023)",
+        "b": "Alternativa B de la pregunta 53 (2023)",
+        "c": "Alternativa C de la pregunta 53 (2023)"
+      }
+    },
+    {
+      "id": "A2023-54",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 54. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 54 (2023)",
+        "b": "Alternativa B de la pregunta 54 (2023)",
+        "c": "Alternativa C de la pregunta 54 (2023)"
+      }
+    },
+    {
+      "id": "A2023-55",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 55. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 55 (2023)",
+        "b": "Alternativa B de la pregunta 55 (2023)",
+        "c": "Alternativa C de la pregunta 55 (2023)"
+      }
+    },
+    {
+      "id": "A2023-56",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 56. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 56 (2023)",
+        "b": "Alternativa B de la pregunta 56 (2023)",
+        "c": "Alternativa C de la pregunta 56 (2023)"
+      }
+    },
+    {
+      "id": "A2023-57",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 57. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 57 (2023)",
+        "b": "Alternativa B de la pregunta 57 (2023)",
+        "c": "Alternativa C de la pregunta 57 (2023)"
+      }
+    },
+    {
+      "id": "A2023-58",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 58. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 58 (2023)",
+        "b": "Alternativa B de la pregunta 58 (2023)",
+        "c": "Alternativa C de la pregunta 58 (2023)"
+      }
+    },
+    {
+      "id": "A2023-59",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 59. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 59 (2023)",
+        "b": "Alternativa B de la pregunta 59 (2023)",
+        "c": "Alternativa C de la pregunta 59 (2023)"
+      }
+    },
+    {
+      "id": "A2023-60",
+      "enunciado": "[Ejemplo 2023] Pregunta de muestra número 60. Reemplazar por el enunciado real extraído del cuadernillo oficial del año 2023.",
+      "alternativas": {
+        "a": "Alternativa A de la pregunta 60 (2023)",
+        "b": "Alternativa B de la pregunta 60 (2023)",
+        "c": "Alternativa C de la pregunta 60 (2023)"
+      }
+    }
+  ]
+}
